@@ -1,32 +1,32 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img width=100px src="https://img-premium.flaticon.com/png/512/2942/2942269.png?token=exp=1622321420~hmac=4864c7ee60fb37512bdbb265604717a0"</a>
+  <a href="" rel="noopener">
+ <img src="https://www.google.com/search?q=https://placehold.co/100x100/A0A0A0/FFFFFF%3Ftext%3DLogo" alt="Voice-Enabled Expense Tracker Logo" />
+</a>
 </p>
-<h1 align = 'center'>   Spendee - Track expenses with your voice</h1>
+<h1 align="center">   Voice-Enabled Personal Finance Tracker</h1>
 
-![](https://img.shields.io/badge/Made_with-Reactjs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Styled_with-Material_ui-007899?style=for-the-badge&logo=Material-ui)
-![](https://img.shields.io/badge/Deployed_on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![](https://img.shields.io/badge/IDE-Visual_Studio_Code-blue?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-### Description  ##
+Description 
 <p>
-  Spendee is a simple expense tracker app which supports speech recognition for quick input. You can enter your incomes/expenses with your voice.i.e no need to type.It will help you to note,delete and categorize your incomes/expenses for easy budget management.
+  This is a simple yet powerful personal finance tracker built with React. It features voice recognition for quick and intuitive data entry, allowing users to effortlessly record and manage their income and expenses without typing. The application helps in tracking, categorizing, and visualizing financial data for better budget management.
 </p>
 
----
-### Demo  ##
-![Demo Expense Tracker application](./demo/demo.gif)
+Key Features
+Dashboard Overview: A clean dashboard to visualize your financial status at a glance.
 
----
+Voice-Enabled Input: Add transactions using simple voice commands (e.g., "Add 500 rupees for groceries").
 
-### Deployed expense tracker react app ##
-https://speech-based-expense-tracker.netlify.app/
+Transaction Management: Easily add, edit, and delete transactions.
 
----
+Categorization: Organize your spending into custom categories like Groceries, Rent, and Entertainment.
 
-### Getting started ##
-  
-  Clone the repository and run `npm i` to install all the dependencies<br>
-  Run `npm start` to start the react app<br>
-  Navigate to `localhost:3000` on your browser
+Data Visualization: Charts to help you understand your spending habits over time.
+
+Demo 
+Deployed Application
+https://peppy-dodol-382a2f.netlify.app/
+
+Getting started
+  
+  1. Clone the repository and run npm install to install all the dependencies.<br>
+  2. Run npm start to start the React application.<br>
+  3. Navigate to localhost:3000 on your browser to view the app.
